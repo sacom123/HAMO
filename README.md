@@ -33,7 +33,7 @@ Unity를 활용해 PC 플랫폼을 대상으로 제작했으며, 액션과 훅, 
 
 ### 🖼️ Screenshot or Gameplay Preview  
 
-
+![Hamo_ver2_](https://github.com/user-attachments/assets/003e1ad8-9d6e-4c57-bee4-d612a7ba6ee7)
 
 ## 🎥 Gameplay Videos  
 
