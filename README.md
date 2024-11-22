@@ -1,5 +1,7 @@
 # 🎮 Portfolio: **HAMO**  
 2024 PlayX4 참가 프로젝트
+[HAMO](https://store.onstove.com/ko/games/3560)의 첫 번째 프로젝트로, STOVE 플랫폼에서 출시되었습니다!  
+🔗 [STOVE에서 게임 확인하기](https://store.onstove.com/ko/games/3560)
 
 ---
 
@@ -32,9 +34,11 @@ Unity를 활용해 PC 플랫폼을 대상으로 제작했으며, 액션과 훅, 
 
 
 
-## 🎥 Gameplay Video  
-[![Tower: Hero's Journey](https://img.youtube.com/vi/eC9Pj--PPlM/0.jpg)](https://youtu.be/eC9Pj--PPlM)  
-> 위 이미지를 클릭하면 YouTube에서 티저 영상을 보실 수 있습니다.
+## 🎥 Gameplay Videos  
+
+### 홍보 영상
+[![HAMO](https://img.youtube.com/vi/mIyJKurntTw/0.jpg)](https://www.youtube.com/watch?v=mIyJKurntTw)  
+> 위 이미지를 클릭하면 HAMO의 홍보 영상을 볼 수 있습니다
 
 ---
 
